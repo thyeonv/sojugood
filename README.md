@@ -1,1 +1,1 @@
-# thyeonv.github.io-sojugood
+# thyeonv.github.io/sojugood
